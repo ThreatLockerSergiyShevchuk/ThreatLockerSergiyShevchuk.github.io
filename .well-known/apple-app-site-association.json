@@ -1,0 +1,20 @@
+{
+    "applinks": {
+      "apps": [],
+      "details": [
+        {
+          "appID": "MSY54GN4KF.com.threatlocker.mobile.app",
+          "components": [
+            {
+              "/": "/mobile/qr*",
+              "comment": "Matches any URL with a path that starts with /mobile/qr"
+            },
+            {
+              "/": "/approval-center",
+              "comment": "Matches any URL with a path that starts with /approval-center"
+            }
+          ]
+        }
+      ]
+    }
+  }
