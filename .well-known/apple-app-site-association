@@ -16,6 +16,10 @@
           {
             "/": "/approval-center/mobile",
             "comment": "Matches any url with a path that starts with /approval-center"
+          },
+          {
+            "/": "/approval-center/*",
+            "comment": "Matches any url with a path that starts with /approval-center"
           }
         ]
       }
